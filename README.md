@@ -14,3 +14,4 @@ This is my Maven project from MuleSoft's advanced development class
 
 And added mule-build with Jenkins
 
+And changed phase§
