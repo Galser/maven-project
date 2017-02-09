@@ -12,6 +12,5 @@ This is my Maven project from MuleSoft's advanced development class
 
 1. Package and deploy: `mvn install`
 
-and some  changes
-
+And added mule-build with Jenkins
 
